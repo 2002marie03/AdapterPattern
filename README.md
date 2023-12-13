@@ -1,0 +1,2 @@
+# AdapterPattern
+#Design_Pattern
