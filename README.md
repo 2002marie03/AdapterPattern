@@ -18,8 +18,9 @@ Ce projet illustre l'implémentation du pattern adapter dans le contexte de la c
 Le scénario d'utilisation de ces classes est illustré dans le code d'exemple fourni dans le dépôt.
 
 ## Exécution
-![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/9ebf4a4e-799b-44b2-9b8c-0a3e19d176c9)
-![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/407bf07b-7b48-4d64-af64-6938300ce61d)![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/ddda147d-c58f-4eac-81f8-3fda093d8be6)
+                           ![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/9ebf4a4e-799b-44b2-9b8c-0a3e19d176c9)
+                           ![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/407bf07b-7b48-4d64-af64-6938300ce61d)
+                           ![image](https://github.com/2002marie03/AdapterPattern/assets/95045123/ddda147d-c58f-4eac-81f8-3fda093d8be6)
 
 
 
